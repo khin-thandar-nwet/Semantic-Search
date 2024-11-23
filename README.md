@@ -1,4 +1,4 @@
-# Semantic-Search
+# Using Sentence Transformers for semantic search
 Semantic Search
 
 Semantic Search Result:
